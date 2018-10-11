@@ -1,6 +1,8 @@
 # Etheramble - A Casino game on Ethereum Ropsten network
 
-This project is to 
+This project is to play casino game on ethereum Ropseten network, If you dont have test ether to play you can request 
+from test faucet
+https://faucet.metamask.io/
 
 ## Getting Started
 
@@ -16,7 +18,7 @@ install http-server
 
 ### Example
 
-![Alt text](/example.jpg?raw=true "Etheramble Home page")
+![Home page](example.jpg?raw=true "Etheramble Home page")
 
 
 
