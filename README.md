@@ -18,7 +18,7 @@ install http-server
 
 ### Example
 
-![Home page](example.jpg?raw=true "Etheramble Home page")
+![Home page](https://github.com/rsingh888/etheramble/blob/master/example.JPG?raw=true "Etheramble Home page")
 
 
 
